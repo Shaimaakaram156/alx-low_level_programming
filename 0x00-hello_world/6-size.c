@@ -1,7 +1,10 @@
 #include <stdio.h>
+
 /**
  * main - Entery point 
- * Description : using sizeof to print the size of various types.
+ *
+ * Description: using sizeof to print the size of various types.
+ *
  * Return: Alwayes 0 (Success)
  */
 
