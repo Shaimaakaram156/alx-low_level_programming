@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	char quo[] = "and that of art is useful\" - Dora Kopra. 2015-10-19\n";
+char quo[] = "and that of art is useful\" - Dora Kopra. 2015-10-19\n";
 write(1. quo. 59);
-	return (1);
+return (1);
 }
